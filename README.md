@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Deb-bee
-- 👀 I’m interested in software development
+- 👀 I’m interested in DATA SCIENCE
 - 🌱 I’m currently learning Python and Java programming languages
 - 💞️ I’m looking to collaborate on amazing projects
 
